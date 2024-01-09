@@ -1,0 +1,4 @@
+﻿  GameObject.cpp
+C:\Users\nicol\OneDrive\Documents\Programmation\C++\Golf_Shooter_1\GameObject.cpp(38,65): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\nicol\OneDrive\Documents\Programmation\C++\Golf_Shooter_1\GameObject.cpp(39,65): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  Golf_Shooter_1.vcxproj -> C:\Users\nicol\OneDrive\Documents\Programmation\C++\Golf_Shooter_1\x64\Debug\Golf_Shooter_1.exe
