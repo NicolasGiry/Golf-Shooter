@@ -13,3 +13,6 @@ Les zombies accélèrent au fur et à mesure que le jeu dure, rendant la partie 
 ![Screenshot 2024-01-18 104022](https://github.com/NicolasGiry/Golf-Shooter/assets/114723956/3c9f5595-30fe-4189-a96d-4cd69daccf61)
 
 Un système de bruitage rend le jeu plus interactif.
+
+https://github.com/NicolasGiry/Golf-Shooter/assets/114723956/3e5d71ff-1ea2-4df2-851c-717880971f56
+
