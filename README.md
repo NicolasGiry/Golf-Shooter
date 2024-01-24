@@ -16,3 +16,4 @@ Un système de bruitage rend le jeu plus interactif.
 
 https://github.com/NicolasGiry/Golf-Shooter/assets/114723956/3e5d71ff-1ea2-4df2-851c-717880971f56
 
+Pour le tester : télécharger le repository en zip, et exécutez le fichier “x64/Debug/Golf_Shooter_1.exe”
